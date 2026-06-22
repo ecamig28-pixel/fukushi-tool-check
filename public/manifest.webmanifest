@@ -1,0 +1,17 @@
+{
+  "name": "福祉用具チェックカンペ",
+  "short_name": "用具チェック",
+  "description": "福祉用具のモニタリング・点検を補助するポケットチェックリスト",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#071f46",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
